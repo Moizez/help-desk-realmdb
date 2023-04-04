@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "help-desk-realm",
+    "slug": "help-desk-realm",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
